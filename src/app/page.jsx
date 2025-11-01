@@ -2,7 +2,7 @@
 
 import React, { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
-import { Button } from 'components/ui/button';
+import { Button } from './Components/ui/button';
 import { 
   Film, 
   FileText, 
